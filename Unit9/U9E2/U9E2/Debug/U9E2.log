@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\mdominicis009\Desktop\Cpp\Unit9\U9E2\U9E2\Source.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit9\U9E2\U9E2\Source.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit9\U9E2\U9E2\Source.cpp(148,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit9\U9E2\U9E2\Source.cpp(152,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit9\U9E2\U9E2\Source.cpp(162,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  U9E2.vcxproj -> C:\Users\mdominicis009\Desktop\Cpp\Unit9\U9E2\Debug\U9E2.exe

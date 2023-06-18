@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\mdominicis009\Desktop\Cpp\Unit8\Unit8Test\Unit8Test\test.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit8\Unit8Test\Unit8Test\test.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit8\Unit8Test\Unit8Test\test.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+  Unit8Test.vcxproj -> C:\Users\mdominicis009\Desktop\Cpp\Unit8\Unit8Test\Debug\Unit8Test.exe

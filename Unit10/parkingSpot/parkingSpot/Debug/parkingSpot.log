@@ -1,0 +1,6 @@
+﻿  car.cpp
+  CarTest.cpp
+C:\Users\mdominicis009\Desktop\Cpp\Unit10\parkingSpot\parkingSpot\CarTest.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  parkingSpot.cpp
+  Generating Code...
+  parkingSpot.vcxproj -> C:\Users\mdominicis009\Desktop\Cpp\Unit10\parkingSpot\Debug\parkingSpot.exe

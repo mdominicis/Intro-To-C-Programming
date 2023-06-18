@@ -1,0 +1,5 @@
+﻿  die.cpp
+  Source.cpp
+C:\Users\mdominicis009\Desktop\Cpp\Unit11\craps\craps\Source.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  craps.vcxproj -> C:\Users\mdominicis009\Desktop\Cpp\Unit11\craps\Debug\craps.exe

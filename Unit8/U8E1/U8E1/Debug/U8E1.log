@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mdominicis009\Desktop\Cpp\Unit8\U8E1\U8E1\Source.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit8\U8E1\U8E1\Source.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+  U8E1.vcxproj -> C:\Users\mdominicis009\Desktop\Cpp\Unit8\U8E1\Debug\U8E1.exe

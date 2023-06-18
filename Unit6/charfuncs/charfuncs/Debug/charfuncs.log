@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\mdominicis009\Desktop\Cpp\Unit6\charfuncs\charfuncs\Source.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit6\charfuncs\charfuncs\Source.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit6\charfuncs\charfuncs\Source.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+  charfuncs.vcxproj -> C:\Users\mdominicis009\Desktop\Cpp\Unit6\charfuncs\Debug\charfuncs.exe

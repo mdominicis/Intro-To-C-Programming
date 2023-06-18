@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\mdominicis009\Desktop\Cpp\Unit7\U7E1\U7E1\Source.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mdominicis009\Desktop\Cpp\Unit7\U7E1\U7E1\Source.cpp(28): warning C4715: 'findmin<int>': not all control paths return a value
+C:\Users\mdominicis009\Desktop\Cpp\Unit7\U7E1\U7E1\Source.cpp(28): warning C4715: 'findmin<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >': not all control paths return a value
+C:\Users\mdominicis009\Desktop\Cpp\Unit7\U7E1\U7E1\Source.cpp(28): warning C4715: 'findmin<double>': not all control paths return a value
+  U7E1.vcxproj -> C:\Users\mdominicis009\Desktop\Cpp\Unit7\U7E1\Debug\U7E1.exe

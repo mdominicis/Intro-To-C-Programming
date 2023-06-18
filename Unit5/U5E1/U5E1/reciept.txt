@@ -1,0 +1,10 @@
+Number in Party.....         6
+Base Charges........$   2100.00
+Discount............$    210.00
+Instruction Cost....$    300.00
+Equipment Rental....$    480.00
+-------------------------------
+Subtotal............$   2670.00
+Tax.................$    133.50
+Total Bill..........$   2803.50
+Required Deposit....$   1335.00

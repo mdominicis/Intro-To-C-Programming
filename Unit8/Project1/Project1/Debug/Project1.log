@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\mdominicis009\Desktop\Cpp\Unit8\Project1\Project1\Source.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit8\Project1\Project1\Source.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit8\Project1\Project1\Source.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit8\Project1\Project1\Source.cpp(29): message : see reference to function template instantiation 'void display<int>(std::vector<int,std::allocator<int>>)' being compiled
+  Project1.vcxproj -> C:\Users\mdominicis009\Desktop\Cpp\Unit8\Project1\Debug\Project1.exe

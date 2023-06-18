@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mdominicis009\Desktop\Cpp\Unit6\funcswithstrings\funcswithstrings\Source.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit6\funcswithstrings\funcswithstrings\Source.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+  funcswithstrings.vcxproj -> C:\Users\mdominicis009\Desktop\Cpp\Unit6\funcswithstrings\Debug\funcswithstrings.exe

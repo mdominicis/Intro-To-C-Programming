@@ -1,0 +1,3 @@
+﻿  Excersise2.cpp
+C:\Users\mdominicis009\Desktop\Cpp\Unit1\Excersise2\Excersise2\Excersise2.cpp(13,10): warning C4129: ' ': unrecognized character escape sequence
+LINK : fatal error LNK1168: cannot open C:\Users\mdominicis009\Desktop\Cpp\Unit1\Excersise2\x64\Debug\Excersise2.exe for writing

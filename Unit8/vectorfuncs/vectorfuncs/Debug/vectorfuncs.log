@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\mdominicis009\Desktop\Cpp\Unit8\vectorfuncs\vectorfuncs\Source.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit8\vectorfuncs\vectorfuncs\Source.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit8\vectorfuncs\vectorfuncs\Source.cpp(38): message : see reference to function template instantiation 'void display<int>(std::vector<int,std::allocator<int>>)' being compiled
+  vectorfuncs.vcxproj -> C:\Users\mdominicis009\Desktop\Cpp\Unit8\vectorfuncs\Debug\vectorfuncs.exe

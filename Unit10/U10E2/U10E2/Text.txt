@@ -1,0 +1,42 @@
+Power Plant Operation
+25.99
+5
+Chernobyl
+Fukushima
+Paks
+
+Education in America
+18.50
+10
+Frizzle
+Feeny
+
+How to be a Doctor
+2.95
+4
+Kevorkian
+
+Battling Alcoholism
+7.89
+13
+Lohan
+Gibson
+Brand
+Sheen
+
+Howdy Neighbor
+10.05
+9
+Rogers
+
+Acting 101
+30.65
+7
+Labeouf
+
+Owning a Business
+6.50
+8
+Trump
+Jobs
+Gates

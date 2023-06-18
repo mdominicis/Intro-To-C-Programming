@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\mdominicis009\Desktop\Cpp\Unit6\U6E1\U6E1\Source.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mdominicis009\Desktop\Cpp\Unit6\U6E1\U6E1\Source.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mdominicis009\Desktop\Cpp\Unit6\U6E1\U6E1\Source.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+  U6E1.vcxproj -> C:\Users\mdominicis009\Desktop\Cpp\Unit6\U6E1\Debug\U6E1.exe
